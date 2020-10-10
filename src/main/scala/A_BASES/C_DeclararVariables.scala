@@ -6,5 +6,5 @@ object C_DeclararVariables extends App {
   val c:Int = 'M'
   val d:String = "Hola"
   println("\n\t"+a+"\n"+"\t\t"+b+"\n"+"\t\t\t"+c+"\n"+"\t\t\t\t"+d+"\n")
-  println("hola")
+  
 }
