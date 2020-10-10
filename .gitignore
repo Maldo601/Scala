@@ -1,0 +1,7 @@
+project/target/streams/_global/update/_global/streams/out
+.metals
+.bloop
+.vscode
+target
+project
+
